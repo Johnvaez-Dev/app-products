@@ -1,5 +1,5 @@
 # Nombre del Proyecto
-Proyecto: App Productos
+App Productos
 
 Descripción
 
